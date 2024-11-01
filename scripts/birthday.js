@@ -1,4 +1,3 @@
-// Birthday page scripts
 
 // Animation GSAP timeline on load event
 window.addEventListener("load", () => {
